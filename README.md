@@ -1,4 +1,4 @@
-# Olá pessoas!!! 👋
+# Olá, pessoas!!! 👋
 
 
 <!--
