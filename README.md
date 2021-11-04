@@ -1,4 +1,4 @@
-# Olá, pessoas!!! 👋
+# Olá, pessoa!!! 👋
 
 ## Sobre mim
 - Meu lema: aprendendo sempre!
